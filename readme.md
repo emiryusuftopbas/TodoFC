@@ -8,15 +8,15 @@ You need to download the exe , or you can build the exe from the source code.
  - Create a folder
  - Move executable program into created folder
 
- ![System Properties](https://i.ibb.co/9vQjr10/Annotation-2019-11-27-205018.png)
+ ![System Properties](https://user-images.githubusercontent.com/58172827/76757530-ca016380-6798-11ea-8113-eb44640c97d4.png)
 
  - Click on  *Environment Variables*
 
- ![Environment variables](https://i.ibb.co/mcL2PyS/Annotation-2019-11-27-205018.png)
+ ![Environment variables](https://user-images.githubusercontent.com/58172827/76757607-e7cec880-6798-11ea-97e9-ff8268620d9f.png)
 
  - Double click on *Path*
 
- ![Edit environment variable](https://i.ibb.co/1Rd4BSs/Annotation-2019-11-27-205018.png)
+ ![Edit environment variable](https://user-images.githubusercontent.com/58172827/76757660-05039700-6799-11ea-924a-a556139dae77.png)
  
  - Click on new and add write the path of the folder.
  - Click ok.
@@ -29,7 +29,7 @@ Open cmd and type
 
  After you typed the command ,program will wait input from you.
 
- ![TodoFC add](https://i.ibb.co/0YvrtZw/Capture.png)
+ ![TodoFC add](https://user-images.githubusercontent.com/58172827/76757708-295f7380-6799-11ea-913b-6a06c14ae697.png)
 
  ## How to show to do list
  Open cmd and type TodoFC
@@ -54,13 +54,13 @@ Open cmd and type
 
     TodoFC mark-as-completed 2
 
-![enter image description here](https://i.ibb.co/L8D1Qvw/Capture.png)
+![todofc mark-as-completed](https://user-images.githubusercontent.com/58172827/76757758-45fbab80-6799-11ea-8b99-4f7ca6ad0edd.png)
    
    **Marking as uncompleted**
 
 	TodoFC mark-as-uncompleted <id>
 
-![enter image description here](https://i.ibb.co/JKhBHwc/Capture.png)
+![todofc mark-as-uncompleted](https://user-images.githubusercontent.com/58172827/76757828-6fb4d280-6799-11ea-9c35-94220b7f0897.png)
 
 ## How to delete a to do
 
@@ -68,11 +68,11 @@ Open cmd and type
 
 Before delete:
 
-![Todo List](https://i.ibb.co/XtXBN63/todolist.png)
+![Todo List](https://user-images.githubusercontent.com/58172827/76757926-a985d900-6799-11ea-955c-dab176d8c693.png)
 
 After delete:
 
-![todo list](https://i.ibb.co/0fJ0Nwt/asd.png)
+![todo List](https://user-images.githubusercontent.com/58172827/76757952-ba364f00-6799-11ea-962c-0a7f58de9dee.png)
 
  
 
